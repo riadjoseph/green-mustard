@@ -100,7 +100,7 @@ sections:
           documentation, pamphlets, manuals and technical documents.
         actions:
           - label: See French Article
-            url: /faq
+            url: 'https://pme-web-seo.com/videos-seo/ergonomie-mobile-et-robots-txt/'
             style: primary
             has_icon: true
             icon: arrow-right
