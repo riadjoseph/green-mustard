@@ -203,6 +203,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    background_image: images/contact-webforgood.png
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
