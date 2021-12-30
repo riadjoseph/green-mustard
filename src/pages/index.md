@@ -21,7 +21,12 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    video_embed_html: 'https://youtu.be/mR5u4hETLmA'
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube-nocookie.com/embed/mR5u4hETLmA" title="YouTube
+      video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
