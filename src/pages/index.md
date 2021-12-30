@@ -7,7 +7,7 @@ sections:
       - label: Contact
         url: /contact
         style: primary
-      - label: 'Voir '
+      - label: Voir les services
         url: '#'
         style: link
         has_icon: false
