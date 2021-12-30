@@ -27,7 +27,7 @@ sections:
     subtitle: >-
       Je travaille avec les petites et moyennes entreprises pour optimiser leurs
       sites web, en matière de conversions de ventes et de visibilité
-      (référencement naturel - SEO
+      (référencement naturel - SEO)
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
