@@ -28,7 +28,6 @@ seo:
       relativeUrl: true
 template: page
 ---
-
 ![A woman using a laptop](/images/about.jpg)
 
 The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
@@ -39,8 +38,7 @@ I have a BA in English Literature and an MBA in Marketing from the University of
 
 My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
 
-
-
 ## Writing for Action
 
 I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
+
