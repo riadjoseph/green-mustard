@@ -7,7 +7,7 @@ sections:
       - label: Contact
         url: /contact
         style: primary
-      - label: lorem-ipsum
+      - label: 'Voir '
         url: '#'
         style: link
         has_icon: false
