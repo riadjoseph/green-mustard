@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Améliorez les résultats de votre site web
     actions:
-      - label: Contact Me
+      - label: Contact
         url: /contact
         style: primary
     image: images/hero.png
