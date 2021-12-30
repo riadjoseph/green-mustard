@@ -7,6 +7,14 @@ sections:
       - label: Contact
         url: /contact
         style: primary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     image: images/hero.png
     image_alt: A smiling woman
     media_position: right
