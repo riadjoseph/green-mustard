@@ -24,7 +24,9 @@ sections:
       video player" frameborder="0" allow="accelerometer; autoplay;
       clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen></iframe>
-    subtitle: Je travaille avec les petites et moyennes entreprises pour optimiser leurs
+    subtitle: >-
+      Je travaille avec les petites et moyennes entreprises pour optimiser leurs
+      sites web
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
